@@ -1,0 +1,4 @@
+rootProject.name = 'analytics-api-service'
+
+include 'service'
+include 'model'
